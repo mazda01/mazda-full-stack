@@ -23,11 +23,11 @@ int main()
             }
         }  
     }
-    
+
     printf("\nAscending Order :- ");
-    for(int x=0;x<8;x++)
+    for(int v=0;v<8;v++)
     {
-        printf("%d ",num[x]);
+        printf("%d ",num[v]);
     }
     
    return 0; 
